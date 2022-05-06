@@ -1,4 +1,4 @@
-## Descripción :black_nib:
+## Descripción 👩‍⚕️
 La clínica DENDE Spa tiene una aplicación capaz de registrar a los nuevos usuarios almacenando su nombre, apellido, hora en la que fue registrado y un código identificador.
 registrados Este desafío no está en desarrollo por lo que no se realizaran futuras modificaciones.
 
