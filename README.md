@@ -1,8 +1,7 @@
 ## Descripción 👩‍⚕️
-La clínica DENDE Spa tiene una aplicación capaz de registrar a los nuevos usuarios almacenando su nombre, apellido, hora en la que fue registrado y un código identificador.
-registrados Este desafío no está en desarrollo por lo que no se realizaran futuras modificaciones.
+La clínica DENDE Spa tiene una aplicación capaz de registrar a los nuevos usuarios almacenando su nombre, apellido, hora en la que fue registrado y un código identificador. Este desafío no está en desarrollo por lo que no se realizaran futuras modificaciones.
 
-### Materia aplicada :page_with_curl:
+### Materia aplicada
 - Conociendo NPM
 - Manejo de dependencias
 - Conociendo paquetes en Node
@@ -11,3 +10,4 @@ registrados Este desafío no está en desarrollo por lo que no se realizaran fut
 
 ### Visualización
 
+![](https://github.com/aleyire/citas_medicas/blob/main/img/preview.png)
